@@ -5,7 +5,7 @@
 
 I bridge the gap between technical security operations and business value. As a recent **Bachelor of Cybersecurity** graduate, I specialize in building practical cloud security labs (SIEM/SOAR) to understand the real-world threats organizations face today.
 
-I am currently seeking opportunities in **Digital Sales** and **Security Analysis**, where I can leverage my technical background to solve complex customer problems.
+I am currently seeking opportunities in **SOC Analyst Roles** and **Cyber Security Sales**, where I can leverage my technical background to solve complex customer problems.
 
 ---
 
