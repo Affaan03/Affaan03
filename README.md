@@ -10,8 +10,8 @@ I am currently seeking opportunities in **SOC Analyst Roles** and **Cyber Securi
 ---
 
 ## 🛠️ Technical Stack
-* **SIEM & Log Analysis:** Microsoft Sentinel, Wazuh, Splunk
-* **Cloud Security:** Azure (VMs, NSGs, Logic Apps), AWS
+* **SIEM & Log Analysis:** Microsoft Sentinel, Wazuh
+* **Cloud Security:** Azure (VMs, NSGs, Logic Apps)
 * **Vulnerability Management:** Tenable Nessus, CVSS Scoring
 * **Automation & Scripting:** PowerShell, KQL (Kusto Query Language), Python
 * **Frameworks:** NIST Incident Response, MITRE ATT&CK
