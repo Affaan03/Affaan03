@@ -20,7 +20,7 @@ I am currently seeking opportunities in **SOC Analyst Roles** and **Cyber Securi
 
 ## 🚀 Featured Projects
 
-### 🔹 [1. Azure Sentinel & SOAR Automation](Azure-Cloud-Honeypot-SIEM-Threat-Intelligence)
+### 🔹 [1. Azure Sentinel & SOAR Automation](https://github.com/Affaan03/SIEM-Home-Lab-Threat-Detection-Incident-Response)
 *Built a live "Honeypot" in the cloud to attract attackers, mapped their locations in real-time, and created an automated response system.*
 * **Tech:** Azure Sentinel, Logic Apps, PowerShell, KQL.
 * **Outcome:** Reduced incident response time by 90% via automated email alerts.
