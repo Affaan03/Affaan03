@@ -20,15 +20,16 @@ I am currently seeking opportunities in **SOC Analyst Roles** and **Cyber Securi
 
 ## 🚀 Featured Projects
 
-### 🔹 [1. Azure Sentinel & SOAR Automation](https://github.com/Affaan03/SIEM-Home-Lab-Threat-Detection-Incident-Response)
+### 🔹 [1. Automated Malware Defense & SOAR (Wazuh)](https://github.com/Affaan03/Automated-Malware-Detection-Response-with-Wazuh)
+*Engineered a defensive pipeline to simulate and neutralize live ransomware. Integrated VirusTotal for hash enrichment and configured "Active Response" to automatically isolate infected endpoints.*
+* **Tech:** Wazuh XDR, VirusTotal API, Active Response (Firewall-Drop), Wireshark.
+* **Outcome:** Achieved sub-second automated containment of malicious payloads, preventing lateral movement.
+
+### 🔹 [2. Azure Sentinel & SOAR Automation](https://github.com/Affaan03/SIEM-Home-Lab-Threat-Detection-Incident-Response)
 *Built a live "Honeypot" in the cloud to attract attackers, mapped their locations in real-time, and created an automated response system.*
 * **Tech:** Azure Sentinel, Logic Apps, PowerShell, KQL.
 * **Outcome:** Reduced incident response time by 90% via automated email alerts.
 
-### 🔹 [2. Automated Threat Detection (Wazuh)](LINK_TO_YOUR_WAZUH_REPO)
-*Deployed an open-source SIEM to monitor endpoint security and detect brute-force anomalies.*
-* **Tech:** Wazuh Manager, Filebeat, Syslog.
-* **Outcome:** Successfully detected and logged simulated SSH brute-force attacks.
 
 ### 🔹 [3. Vulnerability Management Lab](LINK_TO_YOUR_NESSUS_REPO)
 *Conducted a credentialed audit of a Windows asset to identify and patch critical RCE vulnerabilities.*
