@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Affaan Irshad! 👋
 ### Aspiring SOC Analyst | Cloud Security Enthusiast | 
 
