@@ -34,11 +34,12 @@ I am currently seeking opportunities in **SOC Analyst Roles** and **Cyber Securi
 *Designed a "Red vs. Blue" simulation to identify and detect internal network lateral movement. Deployed Sysmon to bridge the visibility gap in default Windows logging and engineered custom Wazuh rules.*
 * **Tech:** Wazuh SIEM, Sysmon, Nmap, MITRE ATT&CK, XML Rule Tuning.
 * **Outcome:** Transformed invisible network scans into Critical Severity alerts by mapping custom logic to MITRE T1021.002 (Remote Services).
+---
 
-### 🔹 [4. Vulnerability Management Lab](LINK_TO_YOUR_NESSUS_REPO)
-*Conducted a credentialed audit of a Windows asset to identify and patch critical RCE vulnerabilities.*
-* **Tech:** Tenable Nessus Essentials, VMWare.
-* **Outcome:** Remediated 100% of Critical/High vulnerabilities (CVSS 9.0+).
+## 🚧 Upcoming Projects / In Progress
+* **Vulnerability Management Lab:** Conducting a credentialed audit of a Windows asset to identify and patch critical RCE vulnerabilities.
+* **Active Directory Attack Lab:** Simulating Kerberoasting and Golden Ticket attacks to practice identity-based threat hunting.
+* **AWS Cloud Security:** Implementing GuardDuty and IAM hardening policies to secure S3 buckets and EC2 instances.
 
 ---
 
