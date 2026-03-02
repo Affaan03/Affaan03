@@ -8,43 +8,41 @@ Leveraging a strong background in high-volume customer communication and de-esca
 ---
 
 ## 🛠️ Technical Stack
-* **Security Operations (SIEM/SOAR):** Microsoft Sentinel, Wazuh XDR, Log Analytics
-* **Network Defense & Analysis:** Wireshark, Sysmon, Nmap, INetSim
+* **SIEM & Log Analysis:** Microsoft Sentinel, Wazuh
+* **Cloud Security:** Azure (VMs, NSGs, Logic Apps)
 * **Vulnerability Management:** Tenable Nessus, CVSS Scoring
-* **Automation & Scripting:** Python, KQL (Kusto Query Language), PowerShell, Bash
-* **Cloud Security:** Azure (VMs, NSGs, Data Collection Rules), AWS (Cloudtrail, Athena, SNS)
-* **Frameworks:** MITRE ATT&CK, NIST Incident Response
+* **Automation & Scripting:** PowerShell, KQL (Kusto Query Language), Python
+* **Frameworks:** NIST Incident Response, MITRE ATT&CK
 
 ---
 
-## 🚀 Featured Security Projects
+## 🚀 Featured Projects
 
-### 🔹 [1. End-to-End Ransomware Analysis & SOAR (Wazuh)](https://github.com/Affaan03/Automated-Malware-Detection-Response-with-Wazuh)
-*Engineered a centralized SIEM pipeline to detect and automatically isolate live ransomware, integrating the VirusTotal API for real-time threat intelligence.*
-* **Tech:** Wazuh SIEM, VirusTotal API, Active Response scripts, Wireshark.
-* **Business Impact:** Automated 100% of hash enrichment (saving an estimated 2+ hours per incident) and reduced simulated Mean Time to Respond (MTTR) by 95% (sub-15 seconds).
+### 🔹 [1. Automated Malware Defense & SOAR (Wazuh)](https://github.com/Affaan03/Automated-Malware-Detection-Response-with-Wazuh)
+*Engineered a defensive pipeline to simulate and neutralize live ransomware. Integrated VirusTotal for hash enrichment and configured "Active Response" to automatically isolate infected endpoints.*
+* **Tech:** Wazuh XDR, VirusTotal API, Active Response (Firewall-Drop), Wireshark.
+* **Outcome:** Achieved sub-second automated containment of malicious payloads, preventing lateral movement.
 
-### 🔹 [2. Cloud Security Engineering & Threat Intel (Azure Sentinel)](https://github.com/Affaan03/Azure-Cloud-Honeypot-Global-Threat-Intelligence-SIEM.git)
-*Architected a secure Azure cloud environment equipped with honeypots to attract and map global threat actors, triggering automated SOAR playbooks.*
-* **Tech:** Microsoft Azure, Sentinel, KQL, NSGs, Log Analytics.
-* **Business Impact:** Successfully ingested and aggregated 10,000+ daily security events across distributed assets, neutralizing 100% of simulated brute-force breaches.
+### 🔹 [2. Azure Sentinel & SOAR Automation](https://github.com/Affaan03/Azure-Cloud-Honeypot-Global-Threat-Intelligence-SIEM.git)
+*Built a live "Honeypot" in the cloud to attract attackers, mapped their locations in real-time, and created an automated response system.*
+* **Tech:** Azure Sentinel, Logic Apps, PowerShell, KQL.
+* **Outcome:** Reduced incident response time by 90% via automated email alerts.
 
-### 🔹 [3. Enterprise Vulnerability Management & Red Teaming](https://github.com/Affaan03/Enterprise-Vulnerability-Management-SIEM-Detection-Guide)
-*Executed vulnerability assessments and internal network audits to identify exposure, deploying Sysmon to bridge default logging blind spots.*
-* **Tech:** Nessus, Nmap, Wazuh, Sysmon, MITRE ATT&CK.
-* **Business Impact:** Increased telemetry visibility by over 80% for inbound connections and engineered custom XML detection rules mapped to MITRE T1021.002 to reduce false positive alerts by 40%.
-
+### 🔹 [3. Enterprise Vulnerability Management & SIEM Detection](https://github.com/Affaan03/Enterprise-Vulnerability-Management-SIEM-Detection-Guide)
+*Designed a "Red vs. Blue" simulation to identify and detect internal network lateral movement. Deployed Sysmon to bridge the visibility gap in default Windows logging and engineered custom Wazuh rules.*
+* **Tech:** Wazuh SIEM, Sysmon, Nmap, MITRE ATT&CK, XML Rule Tuning.
+* **Outcome:** Transformed invisible network scans into Critical Severity alerts by mapping custom logic to MITRE T1021.002 (Remote Services).
 ---
 
-## 🚧 Upcoming / In-Progress Labs
-* **Vulnerability Management Auditing:** Conducting a credentialed audit of a Windows asset to identify and patch critical RCE vulnerabilities.
-* **Active Directory Attack Simulation:** Simulating Kerberoasting and Golden Ticket attacks to practice identity-based threat hunting.
+## 🚧 Upcoming Projects / In Progress
+* **Vulnerability Management Lab:** Conducting a credentialed audit of a Windows asset to identify and patch critical RCE vulnerabilities.
+* **Active Directory Attack Lab:** Simulating Kerberoasting and Golden Ticket attacks to practice identity-based threat hunting.
 * **AWS Cloud Security:** Implementing GuardDuty and IAM hardening policies to secure S3 buckets and EC2 instances.
 
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/affaan-irshad](https://www.linkedin.com/in/affaan-irshad-20010a2a4/)
-* **Email:** [affaan.irshad@outlook.com](mailto:affaan.irshad@outlook.com)
+* **LinkedIn:** [https://www.linkedin.com/in/affaan-irshad-20010a2a4/]
+* **Email:** [affaan.irshad@outlook.com]
 
 ![Affaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Affaan03&show_icons=true&theme=radical)
